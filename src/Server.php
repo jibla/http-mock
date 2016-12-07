@@ -30,7 +30,7 @@ class Server extends Process
         $this->setTimeout(null);
     }
 
-    public function start(callable $callback = null)
+    public function start($callback = null)
     {
         parent::start($callback);
 
