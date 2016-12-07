@@ -1,5 +1,5 @@
 {
-    "name": "internations/http-mock",
+    "name": "jibla/http-mock",
     "description": "Mock HTTP requests on the server side in your PHP unit tests",
     "license": "MIT",
     "authors": [
