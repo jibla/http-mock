@@ -1,0 +1,8 @@
+{
+  "name": "http_mock",
+  "description": "Fork of internations/http-mock",
+  "man": "README.md",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "project"
+}
